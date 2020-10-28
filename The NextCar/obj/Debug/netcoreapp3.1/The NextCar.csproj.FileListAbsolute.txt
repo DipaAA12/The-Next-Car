@@ -1,0 +1,19 @@
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\bin\Debug\netcoreapp3.1\The NextCar.exe
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\bin\Debug\netcoreapp3.1\The NextCar.deps.json
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\bin\Debug\netcoreapp3.1\The NextCar.runtimeconfig.json
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\bin\Debug\netcoreapp3.1\The NextCar.runtimeconfig.dev.json
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\bin\Debug\netcoreapp3.1\The NextCar.dll
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\bin\Debug\netcoreapp3.1\The NextCar.pdb
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\The NextCar.csprojAssemblyReference.cache
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\App.g.cs
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\The NextCar_MarkupCompile.cache
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\The NextCar_MarkupCompile.lref
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\The NextCar.g.resources
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\The NextCar.csproj.CoreCompileInputs.cache
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\The NextCar.AssemblyInfoInputs.cache
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\The NextCar.AssemblyInfo.cs
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\The NextCar.dll
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\The NextCar.pdb
+D:\project Bram\semester3\pemrograman lanjut\modul3\The NextCar\The NextCar\obj\Debug\netcoreapp3.1\The NextCar.genruntimeconfig.cache
